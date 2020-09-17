@@ -10,5 +10,5 @@ WEB ENGINEERING PROJECT- 3206, Assigned By Subir Saha Sir
 
 
 
-_Django will be used to develop this web app_
+_Django will be used to develop this web app_ planning
 
